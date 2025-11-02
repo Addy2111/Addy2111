@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/TusharPDev/PP-40TusharPatil/blob/663e1e86360b1497b8acb000e2d00ab66a525e6c/Navy%20%26%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(4).png" alt="Banner" width="100%" height="auto"/>
-</div>
+
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi 👋, I'm Adesh</h1>
 <h3 align="center" style="font-family: 'Courier New', monospace;">Beyond Syntax: Mastering the Art and Science of Software Development</h3>
